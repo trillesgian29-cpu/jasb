@@ -47,9 +47,9 @@ This was a **group project**, where each member contributed to:
 ## 📷 Build Process
 Here are some snapshots of how we built the project from scratch:
 
-![Initial Assembly](images/assembly-start.jpg)  
-![Circuit Testing](images/testing.jpg)  
-![Final Power Supply](images/final-psu.jpg)
+![Initial Assembly](Documentation-PowerSupply)  
+![Circuit Testing](Documentation-PowerSupply)  
+![Final Power Supply](Documentation-PowerSupply)
 
 ---
 
@@ -66,3 +66,5 @@ Here are some snapshots of how we built the project from scratch:
 - Importance of progress documentation and iterative testing.  
 
 ---
+This GitHub repository is created and maintained by **Gian Carlo**.  
+It is intended for **learning how to deploy projects** and for **future purposes**, such as documenting coursework, experiments, and applied engineering projects.
