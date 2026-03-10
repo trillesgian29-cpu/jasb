@@ -33,7 +33,7 @@ This was a **group project**, where each member contributed to:
 ---
 
 ## 📄 Documentation
-- [📑 Progress Report (PDF)](docs/progress-report.pdf)  
+- [📑 Progress Report (PDF)](Trilles_CpE2A_ProgressReport.docx)  
 - [📑 Final Report (PDF)](docs/final-report.pdf)  
 
 ---
