@@ -34,7 +34,7 @@ This was a **group project**, where each member contributed to:
 
 ## 📄 Documentation
 - [📑 Progress Report (PDF)](Trilles_CpE2A_ProgressReport.docx)  
-- [📑 Final Report (PDF)](FEC-2-LABORATORY-1-GABATAN-GESMUNDO-LLEVA-LOQUINARIO-TRILLERS)  
+- [📑 Final Report (PDF)](FEC-2-LABORATORY-1-GABATAN-GESMUNDO-LLEVA-LOQUINARIO-TRILLERS%20(1).pdf)
 
 ---
 
